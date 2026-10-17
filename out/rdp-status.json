@@ -125,15 +125,15 @@
     "errors": [],
     "public_port": false
   },
-  "heartbeat_at": "2026-10-17T02:58:20.4266444Z",
+  "heartbeat_at": "2026-10-17T02:59:24.8907868Z",
   "statistik": {
     "ram_total_gb": 15.99,
-    "ram_used_gb": 3.96,
-    "ram_free_gb": 12.03,
+    "ram_used_gb": 3.95,
+    "ram_free_gb": 12.04,
     "disk_total_gb": 255.4,
     "disk_free_gb": 59.7,
     "cpu_percent": 0,
-    "uptime_menit": 351,
-    "updated_at": "2026-10-17T02:58:20.4266734Z"
+    "uptime_menit": 352,
+    "updated_at": "2026-10-17T02:59:24.8908125Z"
   }
 }
